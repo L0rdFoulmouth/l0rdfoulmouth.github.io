@@ -1,16 +1,22 @@
-{% if config.extra.support_link %}
-<div style="margin-top:20px;">
-  <a href="{{ config.extra.support_link }}" target="_blank"
-     style="
-       display:block;
-       padding:10px;
-       background:#635bff;
-       color:white;
-       text-align:center;
-       border-radius:6px;
-       font-weight:600;
-       text-decoration:none;">
-    ❤️ Support me
-  </a>
-</div>
-{% endif %}
+{% extends "base.html" %}
+
+{% block toc %}
+  {{ super() }}
+
+  {% if config.extra.support_link %}
+  <div style="margin-top:20px;">
+    <a href="{{ config.extra.support_link }}" target="_blank"
+       style="
+         display:block;
+         padding:12px;
+         background:#635bff;
+         color:white;
+         text-align:center;
+         border-radius:8px;
+         font-weight:600;
+         text-decoration:none;">
+      ❤️ Support me
+    </a>
+  </div>
+  {% endif %}
+{% endblock %}
