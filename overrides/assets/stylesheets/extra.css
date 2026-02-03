@@ -1,4 +1,5 @@
-/* Hide support button when TOC is mirrored into left sidebar */
-.md-nav__secondary .support-button {
+
+/* Hide support button when TOC is rendered in the left sidebar */
+.md-sidebar--secondary .support-button {
   display: none;
 }
