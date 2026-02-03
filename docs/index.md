@@ -1,19 +1,11 @@
-# Welcome to MkDocs
-
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+# Welcome to LordFoulmouth's PMP Notes
 
 ## Commands
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+This website just contains some personal notes. Please feel free to use it and copy.
 
 ## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+The website contains different pages and structured information on that topic. In no way is this a complete documentation on PMP exam. This should only be used in conjunction with other resources and materials.
 
 [Support this content ❤️](your-payment-link)
