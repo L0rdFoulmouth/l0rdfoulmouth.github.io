@@ -14,9 +14,6 @@ theme:
       primary: indigo
       accent: blue
 
-extra:
-  support_link: https://buymeacoffee.com/lordfoulmouth
-
 nav:
   - Home: index.md
 
